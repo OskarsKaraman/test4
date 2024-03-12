@@ -72,7 +72,7 @@ ul.top__menu li a:hover {
 .vid__wrpap {
     display: flex;
     justify-content: space-between;
-    padding: 36px 33px;
+    padding: 20px 15px;
     border-radius: 20px;
     box-shadow: 0px 7px 13px -1px rgba(129, 100, 164, 0.5);
     background: linear-gradient(227.39deg, rgb(168, 126, 219),rgba(177, 128, 238, 0.75) 99.6%);
